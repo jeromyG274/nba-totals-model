@@ -1,0 +1,31 @@
+home,away,predicted,actual,sportsbook,edge,result,filtered
+Utah Jazz,Los Angeles Clippers,234.7,226,226.0,8.7,LOSS,False
+Charlotte Hornets,Oklahoma City Thunder,238.6,209,223.5,15.1,LOSS,True
+Oklahoma City Thunder,Houston Rockets,237.8,222,222.5,15.3,LOSS,True
+Los Angeles Clippers,Indiana Pacers,239.6,217,223.5,16.1,LOSS,True
+Cleveland Cavaliers,Chicago Bulls,242.7,210,226.0,16.7,LOSS,True
+Dallas Mavericks,Cleveland Cavaliers,241.4,226,226.5,14.9,LOSS,True
+Toronto Raptors,Atlanta Hawks,241.9,215,224.0,17.9,LOSS,True
+Indiana Pacers,Orlando Magic,240.5,226,224.0,16.5,WIN,True
+Atlanta Hawks,Chicago Bulls,240.6,216,224.5,16.1,LOSS,True
+Dallas Mavericks,Los Angeles Clippers,238.1,232,225.0,13.1,WIN,True
+Toronto Raptors,Sacramento Kings,240.2,227,224.0,16.2,WIN,True
+Phoenix Suns,Atlanta Hawks,239.9,240,225.0,14.9,WIN,True
+Portland Trail Blazers,Los Angeles Lakers,236.9,218,225.5,11.4,LOSS,False
+Charlotte Hornets,Phoenix Suns,240.1,215,227.0,13.1,LOSS,True
+Boston Celtics,New Orleans Pelicans,240.6,236,226.0,14.6,WIN,True
+Orlando Magic,Portland Trail Blazers,239.3,219,224.5,14.8,LOSS,True
+Minnesota Timberwolves,Miami Heat,237.1,231,223.5,13.6,WIN,True
+Los Angeles Clippers,New Orleans Pelicans,240.4,224,226.5,13.9,LOSS,True
+Miami Heat,Chicago Bulls,238.9,214,223.0,15.9,LOSS,True
+Minnesota Timberwolves,Golden State Warriors,239.4,226,226.0,13.4,LOSS,True
+Phoenix Suns,Toronto Raptors,241.9,214,225.5,16.4,LOSS,True
+New York Knicks,Minnesota Timberwolves,239.8,216,222.5,17.3,LOSS,True
+Phoenix Suns,Denver Nuggets,239.5,217,227.5,12.0,LOSS,False
+Dallas Mavericks,Los Angeles Lakers,238.4,207,225.5,12.9,LOSS,True
+Minnesota Timberwolves,Houston Rockets,236.8,225,225.5,11.3,LOSS,False
+Golden State Warriors,Los Angeles Lakers,238.5,222,227.5,11.0,LOSS,False
+Charlotte Hornets,Utah Jazz,240.3,229,226.5,13.8,WIN,True
+New York Knicks,San Antonio Spurs,238.9,215,223.0,15.9,LOSS,True
+Indiana Pacers,Atlanta Hawks,239.2,233,225.0,14.2,WIN,True
+Los Angeles Lakers,Los Angeles Clippers,240.4,217,224.0,16.4,LOSS,True

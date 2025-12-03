@@ -1,0 +1,34 @@
+2025-12-03 17:19:08,880 - INFO - ============================================================
+2025-12-03 17:19:08,880 - INFO - Starting daily predictions
+2025-12-03 17:19:08,880 - INFO - ============================================================
+2025-12-03 17:19:08,972 - INFO - Found 9 games today
+2025-12-03 17:19:08,973 - INFO - No completed games yet.
+2025-12-03 17:19:08,973 - INFO - 
+Today's matchups:
+2025-12-03 17:19:08,973 - INFO -   Trail Blazers @ Cavaliers
+2025-12-03 17:19:08,974 - INFO -   Nuggets @ Pacers
+2025-12-03 17:19:08,974 - INFO -   Spurs @ Magic
+2025-12-03 17:19:08,974 - INFO -   Clippers @ Hawks
+2025-12-03 17:19:08,974 - INFO -   Hornets @ Knicks
+2025-12-03 17:19:08,975 - INFO -   Nets @ Bulls
+2025-12-03 17:19:08,975 - INFO -   Kings @ Rockets
+2025-12-03 17:19:08,975 - INFO -   Pistons @ Bucks
+2025-12-03 17:19:08,975 - INFO -   Heat @ Mavericks
+2025-12-03 17:33:13,783 - INFO - ============================================================
+2025-12-03 17:33:13,784 - INFO - Starting daily predictions
+2025-12-03 17:33:13,784 - INFO - ============================================================
+2025-12-03 17:33:13,865 - INFO - Found 9 games today
+2025-12-03 17:33:13,866 - INFO - Fetching live sportsbook odds from The Odds API...
+2025-12-03 17:33:13,866 - INFO - Retrieved odds for 2 games
+2025-12-03 17:33:13,867 - INFO - No completed games yet.
+2025-12-03 17:33:13,867 - INFO - 
+Today's matchups:
+2025-12-03 17:33:13,867 - INFO -   Trail Blazers @ Cavaliers
+2025-12-03 17:33:13,867 - INFO -   Nuggets @ Pacers
+2025-12-03 17:33:13,867 - INFO -   Spurs @ Magic
+2025-12-03 17:33:13,867 - INFO -   Clippers @ Hawks
+2025-12-03 17:33:13,868 - INFO -   Hornets @ Knicks
+2025-12-03 17:33:13,868 - INFO -   Nets @ Bulls
+2025-12-03 17:33:13,868 - INFO -   Kings @ Rockets
+2025-12-03 17:33:13,868 - INFO -   Pistons @ Bucks
+2025-12-03 17:33:13,868 - INFO -   Heat @ Mavericks

@@ -1,0 +1,31 @@
+idx,home,away,base_pred,pace_adj,streak_adj,injury_adj,recomposed_final,predict_total_direct,predict_total_plus_injury,sportsbook,edge,filtered,actual
+100,Utah Jazz,Los Angeles Clippers,234.7,0.8,0.0,-0.0,235.5,235.5,235.5,226.0,9.5,False,226
+131,Charlotte Hornets,Oklahoma City Thunder,238.6,0.0,0.0,-0.0,238.6,238.6,238.6,223.5,15.1,True,209
+162,Oklahoma City Thunder,Houston Rockets,237.8,1.4,0.0,-0.0,239.2,239.2,239.2,222.5,16.7,True,222
+193,Los Angeles Clippers,Indiana Pacers,239.6,0.2,0.0,-0.0,239.8,239.8,239.8,223.5,16.3,True,217
+224,Cleveland Cavaliers,Chicago Bulls,242.7,0.6,0.0,-0.0,243.3,243.3,243.3,226.0,17.3,True,210
+255,Dallas Mavericks,Cleveland Cavaliers,241.4,0.6,0.0,-0.0,242.0,242.0,242.0,226.5,15.5,True,226
+286,Toronto Raptors,Atlanta Hawks,241.9,-1.4,0.0,-0.0,240.5,240.5,240.5,224.0,16.5,True,215
+317,Indiana Pacers,Orlando Magic,240.5,-0.4,0.0,-0.0,240.1,240.1,240.1,224.0,16.1,True,226
+348,Atlanta Hawks,Chicago Bulls,240.6,0.0,0.0,-0.0,240.6,240.6,240.6,224.5,16.1,True,216
+379,Dallas Mavericks,Los Angeles Clippers,238.1,1.0,0.0,-0.0,239.1,239.1,239.1,225.0,14.1,True,232
+410,Toronto Raptors,Sacramento Kings,240.2,-1.0,0.0,-0.0,239.2,239.2,239.2,224.0,15.2,True,227
+441,Phoenix Suns,Atlanta Hawks,239.9,-1.2,0.0,-0.0,238.7,238.7,238.7,225.0,13.7,True,240
+472,Portland Trail Blazers,Los Angeles Lakers,236.9,0.2,0.0,-0.0,237.1,237.1,237.1,225.5,11.6,False,218
+503,Charlotte Hornets,Phoenix Suns,240.1,-1.0,0.0,-0.0,239.1,239.1,239.1,227.0,12.1,True,215
+534,Boston Celtics,New Orleans Pelicans,240.6,-0.2,0.0,-0.0,240.4,240.4,240.4,226.0,14.4,True,236
+565,Orlando Magic,Portland Trail Blazers,239.3,-0.2,0.0,-0.0,239.1,239.1,239.1,224.5,14.6,True,219
+596,Minnesota Timberwolves,Miami Heat,237.1,-0.4,0.0,-0.0,236.7,236.7,236.7,223.5,13.2,True,231
+627,Los Angeles Clippers,New Orleans Pelicans,240.4,0.8,0.0,-0.0,241.2,241.2,241.2,226.5,14.7,True,224
+658,Miami Heat,Chicago Bulls,238.9,0.2,0.0,-0.0,239.1,239.1,239.1,223.0,16.1,True,214
+689,Minnesota Timberwolves,Golden State Warriors,239.4,0.8,0.0,-0.0,240.2,240.2,240.2,226.0,14.2,True,226
+720,Phoenix Suns,Toronto Raptors,241.9,-1.0,0.0,-0.0,240.9,240.9,240.9,225.5,15.4,True,214
+751,New York Knicks,Minnesota Timberwolves,239.8,0.6,0.0,-0.0,240.4,240.4,240.4,222.5,17.9,True,216
+782,Phoenix Suns,Denver Nuggets,239.5,0.4,0.0,-0.0,239.9,239.9,239.9,227.5,12.4,True,217
+813,Dallas Mavericks,Los Angeles Lakers,238.4,0.8,0.0,-0.0,239.2,239.2,239.2,225.5,13.7,True,207
+844,Minnesota Timberwolves,Houston Rockets,236.8,1.0,0.0,-0.0,237.8,237.8,237.8,225.5,12.3,True,225
+875,Golden State Warriors,Los Angeles Lakers,238.5,0.6,0.0,-0.0,239.1,239.1,239.1,227.5,11.6,False,222
+906,Charlotte Hornets,Utah Jazz,240.3,0.0,0.0,-0.0,240.3,240.3,240.3,226.5,13.8,True,229
+937,New York Knicks,San Antonio Spurs,238.9,0.4,0.0,-0.0,239.3,239.3,239.3,223.0,16.3,True,215
+968,Indiana Pacers,Atlanta Hawks,239.2,-0.8,0.0,-0.0,238.4,238.4,238.4,225.0,13.4,True,233
+999,Los Angeles Lakers,Los Angeles Clippers,240.4,0.2,0.0,-0.0,240.6,240.6,240.6,224.0,16.6,True,217

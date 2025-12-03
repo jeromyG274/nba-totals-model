@@ -1,0 +1,14 @@
+[Unit]
+Description=NBA Totals Model - Daily Predictions
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/workspaces/nba-totals-model
+ExecStart=/usr/bin/python3 /workspaces/nba-totals-model/schedule_predictions.py
+Restart=on-failure
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
